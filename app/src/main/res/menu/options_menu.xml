@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home Page"
+        android:id="@+id/home_page" />
+    <item
+        android:title="New List"
+        android:id="@+id/new_list" />
+    <item
+        android:title="Check List"
+        android:id="@+id/check_list" />
+    <item
+        android:title="About Page"
+        android:id="@+id/about_page" />
+</menu>

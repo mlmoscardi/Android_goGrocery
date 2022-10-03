@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">goGrocery</string>
+    <string name="new_list">New List</string>
+    <string name="saved_lists">Saved Lists</string>
+    <string name="about_page">About Page</string>
+    <string name="logo">Logo</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="about_us">About Us</string>
+    <string name="ohhhh_did_you_forget_the_grocery_list_on_the_fridge_again_not_with_gogrocery_with_gogrocery_you_can_easily_create_a_list_and_check_off_that_missing_ingredient_for_that_delicious_homemade_cake_don_t_worry_we_won_t_tell_anyone_it_s_from_a_box">Ohhhh....... Did you forget the grocery list on the fridge again? Not with goGrocery! With goGrocery you can easily create a list and check off that missing ingredient for that delicious homemade cake. (Don’t worry we won’t tell anyone it’s from a box).</string>
+    <string name="check_list">Check List</string>
+</resources>
